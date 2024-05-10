@@ -25,7 +25,7 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 * Quality assurance teams can perform comprehensive regression testing and compatibility checks without the need for physical macOS hardware.
 
-## 2. [Pear OS MAC Emulator]([https://www.google.com]
+## 2. [Pear OS MAC Emulator](https://www.onworks.net/os-distributions/special-os/pear-os-online-mac-emulator)
 
 *Overview:* Pear OS MAC Emulator, built on the foundation of Linux-based distributions, offers a sophisticated emulation environment for macOS. It combines the elegance of macOS aesthetics with the flexibility of open-source technologies.
 
