@@ -10,9 +10,11 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 ## 1. [SimuOS Online macOS Simulator Collection](https://simuos.com/)
 
+<div align="center">
+
 ![image](https://github.com/Emmajo2022/macosonlinesimulator/assets/169425726/71114a1b-b7d5-46c9-b4c1-7ce6582808b6)
 
-<div align="center">
+</div>
 
 *Overview:* SimuOS revolutionizes macOS simulation by offering a cloud-based platform for seamless virtualization of macOS environments. It leverages advanced containerization and virtualization technologies to provide users with on-demand access to various macOS versions.
 
