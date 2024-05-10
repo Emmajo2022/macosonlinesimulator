@@ -13,11 +13,11 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 *Features*
 
-⋅⋅⋅ SimuOS employs containerization techniques, such as Docker, to isolate macOS environments and ensure consistent behavior across different hosts.
+* SimuOS employs containerization techniques, such as Docker, to isolate macOS environments and ensure consistent behavior across different hosts.
 
-It utilizes virtualization technologies like QEMU and KVM for hardware emulation, enabling high-fidelity simulation of macOS systems.
+* It utilizes virtualization technologies like QEMU and KVM for hardware emulation, enabling high-fidelity simulation of macOS systems.
 
-The platform dynamically allocates system resources based on user demand, optimizing performance and scalability.
+* The platform dynamically allocates system resources based on user demand, optimizing performance and scalability.
 
 *Limitations*
 
