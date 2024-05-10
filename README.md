@@ -34,6 +34,12 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 ## 2. [Pear OS MAC Emulator](https://www.onworks.net/os-distributions/special-os/pear-os-online-mac-emulator)
 
+<div align="center">
+
+![image](https://github.com/Emmajo2022/macosonlinesimulator/assets/169425726/93a03e02-27ec-494b-adf3-4d32d7e1becf)
+
+</div>
+
 *Overview:* Pear OS MAC Emulator, built on the foundation of Linux-based distributions, offers a sophisticated emulation environment for macOS. It combines the elegance of macOS aesthetics with the flexibility of open-source technologies.
 
 *Features*
@@ -51,6 +57,12 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 * Developers can extend Pear OS functionality through plugin architecture, enabling integration with third-party tools and services.
 
 ## 3. [macOS Web App](https://macos-web.app/)
+
+<div align="center">
+
+![image](https://github.com/Emmajo2022/macosonlinesimulator/assets/169425726/00cc2c98-d00b-4b15-8cf8-d442d534c40a)
+
+</div>
 
 *Overview:* macOS Web App redefines macOS simulation through a browser-based approach, offering a lightweight and versatile solution for experiencing macOS-like functionalities.
 
@@ -70,6 +82,12 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 ## 4. [OS X Yosemite Simulator](https://scratch.mit.edu/projects/51925664/)
 
+<div align="center">
+
+![image](https://github.com/Emmajo2022/macosonlinesimulator/assets/169425726/661e01e8-6273-4b1e-9dfb-c62c0ea9562b)
+
+</div>
+
 *Overview:* The OS X Yosemite Simulator offers a nostalgic journey into the past, allowing users to experience the retro charm of OS X Yosemite's interface.
 
 *Features*
@@ -85,6 +103,12 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 * Integration with virtual reality (VR) platforms enables immersive experiences, allowing users to explore virtual replicas of classic Mac environments.
 
 ## 5. [Mac Plus Emulator (Mac OS System 7)](https://jamesfriend.com.au/pce-js/)
+
+<div align="center">
+
+![image](https://github.com/Emmajo2022/macosonlinesimulator/assets/169425726/77927950-1611-4ffa-85c6-e54009f448e0)
+
+</div>
 
 *Overview:* The Mac Plus Emulator offers a glimpse into computing history, enabling users to interact with the iconic Mac OS System 7 interface.
 
