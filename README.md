@@ -7,12 +7,6 @@
 
 In this guide, we'll explore the top 5 macOS simulators and emulators, offering insights into their features, usability, and limitations.
 
-<div align="center">
- 
-![image](https://github.com/Emmajo2022/macosonlinesimulator/assets/169425726/ab59d1f8-2c3c-4377-b3b7-efc3a272631a)
-
-</div>
-
 
 ## 1. [SimuOS Online macOS Simulator Collection](https://simuos.com/)
 
