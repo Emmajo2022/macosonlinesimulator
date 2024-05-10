@@ -25,7 +25,7 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 * Quality assurance teams can perform comprehensive regression testing and compatibility checks without the need for physical macOS hardware.
 
-## 2. Pear OS MAC Emulator
+## 2. [Pear OS MAC Emulator]([https://www.google.com]
 
 *Overview:* Pear OS MAC Emulator, built on the foundation of Linux-based distributions, offers a sophisticated emulation environment for macOS. It combines the elegance of macOS aesthetics with the flexibility of open-source technologies.
 
@@ -43,7 +43,7 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
   
 * Developers can extend Pear OS functionality through plugin architecture, enabling integration with third-party tools and services.
 
-## 3. macOS Web App
+## 3. [macOS Web App](https://macos-web.app/)
 
 *Overview:* macOS Web App redefines macOS simulation through a browser-based approach, offering a lightweight and versatile solution for experiencing macOS-like functionalities.
 
@@ -61,7 +61,7 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
   
 * Advanced users can deploy custom instances of macOS Web App on private servers, leveraging container orchestration platforms like Kubernetes for scalability and management.
 
-## 4. OS X Yosemite Simulator
+## 4. [OS X Yosemite Simulator](https://scratch.mit.edu/projects/51925664/)
 
 *Overview:* The OS X Yosemite Simulator offers a nostalgic journey into the past, allowing users to experience the retro charm of OS X Yosemite's interface.
 
@@ -77,7 +77,7 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
   
 * Integration with virtual reality (VR) platforms enables immersive experiences, allowing users to explore virtual replicas of classic Mac environments.
 
-## 5. Mac Plus Emulator (Mac OS System 7)
+## 5. [Mac Plus Emulator (Mac OS System 7)](https://jamesfriend.com.au/pce-js/)
 
 *Overview:* The Mac Plus Emulator offers a glimpse into computing history, enabling users to interact with the iconic Mac OS System 7 interface.
 
