@@ -13,14 +13,16 @@ In this guide, we'll explore the top 5 macOS simulators and emulators, offering 
 
 *Features*
 
-SimuOS employs containerization techniques, such as Docker, to isolate macOS environments and ensure consistent behavior across different hosts.
+⋅⋅⋅ SimuOS employs containerization techniques, such as Docker, to isolate macOS environments and ensure consistent behavior across different hosts.
 
 It utilizes virtualization technologies like QEMU and KVM for hardware emulation, enabling high-fidelity simulation of macOS systems.
 
 The platform dynamically allocates system resources based on user demand, optimizing performance and scalability.
 
 *Limitations*
+
 Developers can use SimuOS to test their macOS applications across different versions and configurations, ensuring compatibility and stability.
+
 Quality assurance teams can perform comprehensive regression testing and compatibility checks without the need for physical macOS hardware.
 
 ## 2. Pear OS MAC Emulator
